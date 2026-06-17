@@ -12,7 +12,7 @@ WorldInWords is a fully responsive, highly interactive, cyberpunk-styled world m
 
 
 </div>
-
+<img width="1280" height="720" alt="Sample-WorldInWords" src="https://github.com/user-attachments/assets/7de24f72-c3a5-4561-a4f5-ba575dc73230" />
 ---
 
 ## ✨ Why WorldInWords?
