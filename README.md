@@ -7,7 +7,6 @@
 WorldInWords is a fully responsive, highly interactive, cyberpunk-styled world map application built to visualize real-time global data, geopolitical history, and socioeconomic metrics. Instead of scanning spreadsheets, users interact with a glowing, dynamic globe.
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Vercel_Link-000000?style=for-the-badge&logo=vercel)](https://your-vercel-link.vercel.app)
-[![Next.js](https://img.shields.io/badge/Next.js-14+-black?logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
